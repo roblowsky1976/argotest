@@ -1,0 +1,1 @@
+echo "charts/" > charts/argo-cd/.gitignore
